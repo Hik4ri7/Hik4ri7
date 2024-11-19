@@ -5,9 +5,6 @@
 
 
 
-
-
-- :mortar_board: Programador de Sistemas - Senac :mortar_board:
 - :mortar_board: Programador de Sistemas de Informação - Senai :mortar_board:
 
 <div align="center">  
