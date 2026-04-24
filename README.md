@@ -11,7 +11,7 @@
 </div>
 <br>
 
-- ✏️ Graduação Eng.Software  - Unville ✏️
+- ✏️ Graduação Eng.Software 2º bim. - Unville ✏️
 - :mortar_board: Técnico ADS - Senai :mortar_board:
 
 ## Main skills:
