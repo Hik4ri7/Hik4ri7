@@ -8,6 +8,8 @@
 - :mortar_board: Graduação Eng.Software  - Unville :mortar_board:
 - :mortar_board: Técnico ADS - Senai :mortar_board:
 
+<br>
+
 <div align="center">  
     <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hik4ri7&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=00FF00&text_color=7fdbca&bg_color=011627"/> 
     <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hik4ri7&show_icons=true&locale=en&hide_border=true&layout=compact&title_color=1E90FF&icon_color=00FF00&text_color=7fdbca&bg_color=011627"/>
