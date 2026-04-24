@@ -1,11 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00size=50&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Cauê+Nascimento;Tenho+17+anos;Sou+de+Joinville,Sc;Seja+Bem+Vindo!+;%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00size=50&center=true&vCenter=true&width=1000&lines=Opa,+Meu+nome+é+Cauê+Nascimento;Tenho+19+anos;Sou+de+Joinville,Sc;Seja+Bem+Vindo!+;%29)](https://git.io/typing-svg)
 
 
 
 
-- :mortar_board: Programador de Sistemas de Informação - Senai :mortar_board:
+- :mortar_board: Graduação Eng.Software  - Unville :mortar_board:
+- :mortar_board: Técnico ADS - Senai :mortar_board:
 
 <div align="center">  
     <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hik4ri7&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=00FF00&text_color=7fdbca&bg_color=011627"/> 
