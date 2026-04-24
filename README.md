@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00size=50&center=true&vCenter=true&width=1000&lines=Opa,+Meu+nome+é+Cauê+Nascimento;Tenho+19+anos;Sou+de+Joinville,Sc;Seja+Bem+Vindo!+;)](https://git.io/typing-svg)
 
-<br>
-
-- ✏️ Graduação Eng.Software  - Unville ✏️
-- :mortar_board: Técnico ADS - Senai :mortar_board:
 
 <br>
 
@@ -13,6 +9,10 @@
     <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hik4ri7&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=00FF00&text_color=7fdbca&bg_color=011627"/> 
     <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hik4ri7&show_icons=true&locale=en&hide_border=true&layout=compact&title_color=1E90FF&icon_color=00FF00&text_color=7fdbca&bg_color=011627"/>
 </div>
+<br>
+
+- ✏️ Graduação Eng.Software  - Unville ✏️
+- :mortar_board: Técnico ADS - Senai :mortar_board:
 
 ## Main skills:
 
