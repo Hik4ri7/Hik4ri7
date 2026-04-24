@@ -4,7 +4,7 @@
 
 <br>
 
-- :mortar_board: Graduação Eng.Software  - Unville :mortar_board:
+- ✏️: Graduação Eng.Software  - Unville ✏️:
 - :mortar_board: Técnico ADS - Senai :mortar_board:
 
 <br>
